@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qIePYuaOqdkhfcuycQg/uasgcJE1Kp+d9f+4OOtPfUDZUXNsL3YQYn6yFY4QyJuMAa19Ozl+zyhCbpunYdqAWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maga\\Desktop\\aurora-api-project-master\\Aurora.Domain\\Aurora.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maga\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
